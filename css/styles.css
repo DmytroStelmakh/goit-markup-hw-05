@@ -207,6 +207,10 @@ body {
   margin: auto;
 }
 
+.hero-container {
+  text-align: center;
+}
+
 .main-title {
   font-weight: 900;
   font-size: 44px;
@@ -234,7 +238,6 @@ body {
   color: var(--primary-title-color);
   cursor: pointer;
   padding: 10px 32px;
-  margin-left: 500px;
 }
 
 .section {
